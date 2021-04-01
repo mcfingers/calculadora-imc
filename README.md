@@ -6,5 +6,4 @@ Proyecto en Angular de una calculadora de Indice de Masa Corporal.
 
 Ejecutar `ng serve --o` para un servidor de desarrollo. Abrirá automaticamente `http://localhost:4200/` y se reflejarán los cambios cada vez que se guarden.
 
-[https://i.imgur.com/VzNuwvV.png]
-[https://i.imgur.com/ZaQrhcB.png]
+![alt text](https://i.imgur.com/VzNuwvV.png)  ![alt text](https://i.imgur.com/ZaQrhcB.png)
